@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
+@import "tailwindcss";
+
+@theme{
+  --color-primary: #5a9cc1;
+  --color-secondary: #4ad9c4;
+  --color-background: #eff6ff;
+  --color-primary-100: #409c8d;
+}
+
+
+@font-face {
+  font-family: 'DM Serif Display';
+  src: url('/assets/fonts/DMSerifDisplay-Regular.woff2') format('woff2'),
+       url('/assets/fonts/DMSerifDisplay-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+
+@keyframes zoom-bg {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.2); /* bigger zoom */
+  }
+}
+
+.animate-zoom-bg {
+  animation: zoom-bg 7s ease-in-out infinite alternate;
+}
+

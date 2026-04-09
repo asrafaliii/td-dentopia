@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "title": "Scaling & Polishing",
+    "slug": "scaling-polishing",
+    "image": "https://newwayorthodontic.com/wp-content/uploads/2023/12/Scaling.jpg",
+    "description": "Achieve a cleaner, fresher smile with professional dental cleaning that removes plaque, tartar, and stubborn stains. Our advanced scaling and polishing protocols help prevent gum disease, bad breath, and tooth discoloration. This treatment reaches areas that standard brushing and flossing miss, ensuring long-term periodontal health and a radiant finish.",
+    "features": ["Plaque & Tartar Removal", "Stain Elimination", "Gum Health Audit"],
+    "sub_treatments": [
+      {
+        "title": "Deep Curettage",
+        "description": "Cleaning below the gumline to treat early-stage periodontal issues."
+      },
+      {
+        "title": "Diamond Polishing",
+        "description": "A refined finishing process for ultra-smooth and shiny tooth surfaces."
+      },
+      {
+        "title": "Gum Depigmentation",
+        "description": "Treatments for dark or patchy gum tissue to restore a healthy pink glow."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Teeth Whitening",
+    "slug": "teeth-whitening",
+    "image": "https://pristinealigner.com/wp-content/uploads/2021/11/teeth-2-1024x768.jpg",
+    "description": "Illuminate your smile with our professional teeth whitening systems. We use high-grade, enamel-safe bleaching agents combined with light-activation technology to lift years of staining from coffee, tea, and age. This non-invasive cosmetic procedure can brighten your teeth by several shades in just one appointment, giving you instant confidence.",
+    "features": ["Enamel-Safe Formula", "Immediate Results", "Custom Shade Matching"],
+    "sub_treatments": [
+      {
+        "title": "In-Office Power Whitening",
+        "description": "Fast-acting professional whitening for those needing immediate transformation."
+      },
+      {
+        "title": "Home Whitening Kits",
+        "description": "Customized trays for convenient, gradual brightening at home."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Dental Implants",
+    "slug": "dental-implant",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMpHZa6cVJJWee7b3M2Cs6yfKjnLfxIVhWrg&s",
+    "description": "Experience the gold standard in tooth replacement. Dental implants provide a permanent, root-like foundation for missing teeth, preventing bone loss and facial sagging. Designed to look and function exactly like natural teeth, our implants offer unmatched stability for eating, speaking, and smiling without the worry of shifting dentures.",
+    "features": ["Biocompatible Titanium", "Lifetime Durability", "Bone Preservation"],
+    "sub_treatments": [
+      {
+        "title": "Osseointegrated Placement",
+        "description": "Precision surgical placement of the implant post into the jawbone."
+      },
+      {
+        "title": "Implant-Supported Crowns",
+        "description": "Bespoke ceramic restorations that connect seamlessly to the implant."
+      },
+      {
+        "title": "All-on-4 / All-on-6",
+        "description": "Full-arch restoration for patients missing most or all of their teeth."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Paediatric Dentistry",
+    "slug": "pediatric-child-care",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEmxC1FPZTb8x7vOrm6s6AB19GEZr_B66BQ&s",
+    "description": "Providing gentle and compassionate dental care for our youngest patients. We focus on building a positive foundation for lifelong oral health in a fun, stress-free environment. From preventive sealants to early-age screenings, our paediatric specialists ensure that every child leaves with a healthy smile and a fearless attitude toward dentistry.",
+    "features": ["Child-Friendly Environment", "Preventive Sealants", "Anxiety-Free Approach"],
+    "sub_treatments": [
+      {
+        "title": "Pit & Fissure Sealants",
+        "description": "Protective coatings applied to molars to prevent childhood cavities."
+      },
+      {
+        "title": "Pulp Therapy (Pulpotomy)",
+        "description": "Saving baby teeth from infection to maintain space for permanent teeth."
+      },
+      {
+        "title": "Space Maintainers",
+        "description": "Devices that ensure adult teeth have enough room to erupt properly."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Preventive & Basic Care",
+    "slug": "preventive-basic-care",
+    "image": "https://dentist-telaviv.com/wp-content/uploads/2021/04/29.jpg",
+    "description": "The secret to a healthy smile is proactive care. Our preventive services are designed to detect issues before they become painful or expensive. Through regular check-ups, diagnostic X-rays, and fluoride treatments, we help you maintain your natural teeth for a lifetime while avoiding complex procedures.",
+    "features": ["Early Detection", "Fluoride Application", "Comprehensive Exams"],
+    "sub_treatments": [
+      {
+        "title": "Digital X-Ray Diagnostics",
+        "description": "Low-radiation imaging to detect hidden decay and structural issues."
+      },
+      {
+        "title": "Sensitivity Treatment",
+        "description": "Professional applications to reduce tooth sensitivity to hot and cold."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Restorative & Root Canal",
+    "slug": "restorative-root-canal",
+    "image": "https://www.glmc.ae/wp-content/uploads/2022/12/Root-Canal-Treatment-Birmingham-Mark-Tangri-Dental-Excellence-p26b0l58u7a77txmqyafcvd8z4e0rr8zmooo9cp9q8-1024x683.jpg",
+    "description": "Eliminate pain and save damaged teeth with advanced restorative and endodontic therapy. Our modern root canal procedures are highly precise and virtually painless. By removing infection from the pulp and sealing the tooth, we restore strength and functionality, preventing the need for extractions.",
+    "features": ["Pain Management", "Natural Tooth Preservation", "Modern Endodontics"],
+    "sub_treatments": [
+      {
+        "title": "Laser-Assisted RCT",
+        "description": "Using advanced light technology to disinfect canals more effectively."
+      },
+      {
+        "title": "Composite Fillings",
+        "description": "Metal-free, tooth-colored restorations for cavities and cracks."
+      },
+      {
+        "title": "Fiber Post Reinforcement",
+        "description": "Structural support for teeth that have undergone significant decay."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Oral & Maxillofacial Surgery",
+    "slug": "oral-surgery",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcBFr9_vrj2kyVDb9Ty_5kFJGahPQfeAhvw&s",
+    "description": "When surgical intervention is required, we provide expert care using state-of-the-art surgical protocols. From complex wisdom tooth extractions to minor tissue biopsies, our focus is on surgical precision, minimal trauma, and rapid post-operative recovery for every patient.",
+    "features": ["Minimally Invasive", "Wisdom Tooth Experts", "Rapid Recovery"],
+    "sub_treatments": [
+      {
+        "title": "Wisdom Tooth Extraction",
+        "description": "Surgical removal of impacted molars causing pain or crowding."
+      },
+      {
+        "title": "Bone Grafting",
+        "description": "Rebuilding jawbone density to support future dental implants."
+      },
+      {
+        "title": "Operculectomy",
+        "description": "Removal of overlapping gum tissue to treat recurrent infections."
+      }
+    ]
+  }
+]
